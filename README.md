@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**aboots/aboots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Mohammad Mahdi Abootorabi**, a Computer Engineering student at [Sharif University of Technology](https://en.sharif.edu/). I am on track to complete my bachelor's degree in January 2024.
 
-Here are some ideas to get you started:
+🤖 Currently, I am conducting research on multilingual, multimodal representation models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 My fields of interest are:
+- Natural Language Processing (NLP)
+- Multimodal Deep Learning
+- Modern Information Retrieval
+- Machine Learning
+- Artificial Intelligence
+
+### 🔍 For a more detailed look at my background and work, feel free to visit my [homepage](https://aboots.github.io/).
+
+### 📫 I welcome any opportunity for collaboration and learning. Feel free to reach out to me through my [email](mailto:mahdi.abootorabi2@gmail.com).
