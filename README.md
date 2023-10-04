@@ -11,6 +11,6 @@ I am **Mohammad Mahdi Abootorabi**, a Computer Engineering student at [Sharif Un
 - Machine Learning
 - Artificial Intelligence
 
-### 🔍 For a more detailed look at my background and work, feel free to visit my [homepage](https://aboots.github.io/).
+🔍 For a more detailed look at my background and work, feel free to visit my [homepage](https://aboots.github.io/).
 
-### 📫 I welcome any opportunity for collaboration and learning. Feel free to reach out to me through my [email](mailto:mahdi.abootorabi2@gmail.com).
+📫 I welcome any opportunity for collaboration and learning. Feel free to reach out to me through my [email](mailto:mahdi.abootorabi2@gmail.com).
