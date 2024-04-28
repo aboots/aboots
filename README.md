@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello there 👋
 
-<!--
-**aboots/aboots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Mohammad Mahdi Abootorabi**. I recently completed my Bachelor’s degree in Computer Engineering from the [Sharif University of Technology](https://en.sharif.edu/). 
 
-Here are some ideas to get you started:
+🤖 In August 2024, I will join the <a href="https://sail.usc.edu/">Signal Analysis and Interpretation Laboratory (SAIL)</a> at USC to start my PhD journey under the supervision of Professor <a href="https://sail.usc.edu/people/shri.html">Shrikanth Narayanan</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My fields of interest are:
+- Natural Language Processing (NLP)
+- Multimodal Learning
+- Modern Information Retrieval
+- AI for Healthcare
+
+📫 I welcome any opportunity for collaboration and learning. Feel free to reach out to me through my [email](mailto:mahdi.abootorabi2@gmail.com).
