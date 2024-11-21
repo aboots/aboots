@@ -8,4 +8,4 @@ My name is **Mohammad Mahdi Abootorabi**. I recently completed my Bachelor’s d
 - Modern Information Retrieval
 - AI for Healthcare
 
-📫 I welcome any opportunity for collaboration and learning. Feel free to reach out to me through my [email](mailto:mahdi.abootorabi2@gmail.com).
+📫 I welcome any opportunity for collaboration and learning. Feel free to visit my [homepage](https://aboots.github.io/) and reach out to me through my [email](mailto:mahdi.abootorabi2@gmail.com).
