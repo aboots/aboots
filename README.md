@@ -1,6 +1,6 @@
 Hello there 👋
 
-My name is **Mohammad Mahdi Abootorabi**. I recently completed my Bachelor’s degree in Computer Engineering from the [Sharif University of Technology](https://en.sharif.edu/). 
+My name is **Mohammad Mahdi Abootorabi**. I am a first-year Master’s student in Electrical and Computer Engineering at the University of British Columbia. I completed my Bachelor’s degree in Computer Engineering at the Sharif University of Technology. 
 
 📚 My fields of interest are:
 - Natural Language Processing (NLP)
